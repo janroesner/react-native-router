@@ -37,7 +37,7 @@ var NavButton = React.createClass({
 
 var styles = StyleSheet.create({
   navbarText: {
-    color: 'white',
+    color: 'black',
     fontSize: 16,
     margin: 10,
     fontWeight: '600',
